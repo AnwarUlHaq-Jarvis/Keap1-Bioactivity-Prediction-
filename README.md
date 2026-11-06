@@ -47,6 +47,10 @@ pip install -r Requirements.txt
 ```
 *(Note: If you encounter issues installing RDKit via pip, consider using a Conda environment).*
 
----
+### 4. Run the Streamlit Application
+Launch the interactive web application directly from your terminal:
+```bash
+streamlit run app.py
+```
 
 
