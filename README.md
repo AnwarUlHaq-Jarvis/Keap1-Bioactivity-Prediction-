@@ -43,7 +43,7 @@ source env/bin/activate  # On Windows use: env\Scripts\activate
 
 ### 3. Install Dependencies
 ```bash
-pip install -r Requirements.txt
+pip install -r requirements.txt
 ```
 *(Note: If you encounter issues installing RDKit via pip, consider using a Conda environment).*
 
